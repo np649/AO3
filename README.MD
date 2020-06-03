@@ -1,1 +1,17 @@
 read me
+
+GIT- a version control system
+        GITHUB- GitHub is a Git repository hosting service
+        Repository-  a central place where data is stored
+        Clone- a local copy of the code provided by developer
+        Commit- The "commit" command is used to save your changes to the local repository
+        Push- used to upload local repository content to a remote repository
+        Branch-  a branch represents the tip of a series of commits
+        Merge- way of putting a forked history back together again
+        Merge comflict- an event that occurs when Git is unable to automatically resolve differences in code between two commits
+        Fetch- downloads commits, files, and refs from a remote repository into your local repo
+        Remote- an interface for managing a list of remote entries that are stored in the repository
+        https://www.atlassian.com/git/tutorials/syncing
+        
+        
+        The first step for this project is to create a github account. Then you have to download Webstorm with your UCID. once you get Webstorm you have to lik it to your github then in guthub create a read.me file. in webstorm make an a03 page in HTML and commit changes with the defintions to github.
